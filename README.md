@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 <ul>
 <li> 🔭 I’m currently working on something cool :wink:</li>
 <li> 🌱 I’m currently learning Git, AWS, Nodejs</li>
-<li> 📝 I write articles on <a href="https://dev.to/ghost8395">DEV</a>.</li>
+<li> 📝 I write articles on <a href="https://dev.to/ghost8395">Technical Stuff</a>, <a href="https://medium.com/@manikmudholkar831995">Non-Technical</a>.</li>
 <li> 💬 Ask me about anything related to Javascript/Typescript/Angular/React/Express/Nodejs</li>
 <li> 📫 How to reach me: [@manikMudholkar](https://www.linkedin.com/in/manik-mudholkar-95295418b/)</li>
 <li> 🎉 Fun Fact: I :heart: Trekking </li>
