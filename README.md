@@ -10,7 +10,7 @@
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🛸 Who Am I ?!
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/cat_banner.gif?raw=true" width="200 " height="200" /></a>
 
 I'm a passionate self-taught full-stack web developer and a software engineer from India. 
 My passion for software lies in dreaming up ideas and making them come true, solving one problem at a time.
