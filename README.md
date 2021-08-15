@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/manik-mudholkar-95295418b/" target="_blank">Manik Mudholkar</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/manik-mudholkar-95295418b/" target="_blank">Manik Mudholkar</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <p align='center'>
-   <a href="https://www.linkedin.com/in/manik-mudholkar-95295418b/"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://dev.to/ghost8395"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/devto.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/manikmudholkarr/"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/instagram.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://medium.com/@manikmudholkar831995"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/medium.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://www.linkedin.com/in/manik-mudholkar-95295418b/"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://dev.to/ghost8395"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/devto.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://www.instagram.com/manikmudholkarr/"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://medium.com/@manikmudholkar831995"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/medium.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 <br />
@@ -18,8 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
 <ul>
 <li> 🔭 I’m currently working on something cool :wink:</li>
 <li> 🌱 I’m currently learning Git, AWS, Nodejs</li>
-<li> 📝 I write articles on <a href="https://dev.to/ghost8395">Technical Stuff</a>, <a href="https://medium.com/@manikmudholkar831995">Non-Technical</a>.</li>
+<li> 📝 I write articles on <a target="_blank" href="https://dev.to/ghost8395">Technical Stuff</a>, <a target="_blank" href="https://medium.com/@manikmudholkar831995">Non-Technical</a>.</li>
 <li> 💬 Ask me about anything, I am happy to help.</li>
-<li> 📫 How to reach me: [@manikMudholkar](https://www.linkedin.com/in/manik-mudholkar-95295418b/)</li>
 <li> 🎉 Fun Fact: I :heart: Trekking </li>
 </ul>
