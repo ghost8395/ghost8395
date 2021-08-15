@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://www.linkedin.com/in/manik-mudholkar-95295418b/" target="_blank">Manik Mudholkar</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <p align='center'>
-   <a target="_blank" href="https://www.linkedin.com/in/manik-mudholkar-95295418b/"><img height="25" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a target="_blank" href="https://dev.to/ghost8395"><img height="25" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/devto.png?raw=true"></a>&nbsp;&nbsp;
-   <a target="_blank" href="https://www.instagram.com/manikmudholkarr/"><img height="25" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/instagram.png?raw=true"></a>&nbsp;&nbsp;
-   <a target="_blank" href="https://medium.com/@manikmudholkar831995"><img height="25" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/medium.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://www.linkedin.com/in/manik-mudholkar-95295418b/"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://dev.to/ghost8395"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/devto.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://www.instagram.com/manikmudholkarr/"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+   <a target="_blank" href="https://medium.com/@manikmudholkar831995"><img height="30" src="https://raw.githubusercontent.com/ghost8395/ghost8395/main/Images/medium.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 <br />
