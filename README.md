@@ -43,4 +43,4 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 
-[![Spotify](https://novatorem-h27nd56du-ghost8395.vercel.app)](https://open.spotify.com/user/31lmxvhitkisxb376db3nbcq3csi)
+[![Spotify](https://novatorem-mu-two.vercel.app/api/spotify)](https://open.spotify.com/user/31lmxvhitkisxb376db3nbcq3csi)
