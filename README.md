@@ -43,9 +43,7 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 <br />
-<div style="display:flex">
-<img  width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />
-<h2  style="padding-left:10px; width:500px;"> What Am I Listening right now</h2>
-</div>
+
+<h2  style="padding-left:10px;">🎵 What Am I Listening right now</h2>
 
 [![Spotify](https://novatorem-one-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31lmxvhitkisxb376db3nbcq3csi)
