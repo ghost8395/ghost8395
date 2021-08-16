@@ -42,5 +42,10 @@ This is the place where I opensource stuff and break things :rofl:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 </p>
 
+<br />
+<div style="display:flex">
+<img  width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />
+<h2 style="padding-left:10px"> What Am I Listening right now</h2>
+</div>
 
-[![Spotify](https://novatorem-mu-two.vercel.app/api/spotify)](https://open.spotify.com/user/31lmxvhitkisxb376db3nbcq3csi)
+[![Spotify](https://novatorem-one-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31lmxvhitkisxb376db3nbcq3csi)
