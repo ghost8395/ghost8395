@@ -43,7 +43,7 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 <br />
-<div style="display:flex">
+<div style="display:inline">
 <img  width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/applemusic.svg" />
 <h2 width="40" style="padding-left:10px"> What Am I Listening right now</h2>
 </div>
