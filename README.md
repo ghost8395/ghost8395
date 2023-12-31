@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
 <ul>
 <li> 🔭 I’m currently working on something cool :wink:</li>
 <li> 🌱 I’m currently learning OpenAI, DSA, System Design</li>
-<li> 📝 I write articles on <a target="blank" href="https://dev.to/ghost8395">Technical Stuff</a>, <a target="blank" href="https://medium.com/@manikmudholkar831995">Non-Technical</a>.</li>
+<li> 📝 I write articles on <a target="blank" href="https://dev.to/ghost8395">Dev.io</a>, <a target="blank" href="https://medium.com/@manikmudholkar831995">Medium</a>.</li>
 <li> 💬 Ask me about anything, I am happy to help.</li>
 <li> 🎉 Fun Fact: I :heart: Trekking </li>
 </ul>
